@@ -1,9 +1,6 @@
 {
-    "version": 2,
-    "routes": [
-        {
-            "src": "(.*)",
-            "dest": "app.py"
-        }
-    ]
+    "github": {
+        "enabled": true
+    }    
+    
   }

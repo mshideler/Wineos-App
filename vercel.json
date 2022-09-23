@@ -1,6 +1,7 @@
 {
     "github": {
         "enabled": true
-    }    
-    
+    },    
+    "framework": "null",
+    "buildCommand": "override"
   }
